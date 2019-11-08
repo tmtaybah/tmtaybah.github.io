@@ -29,8 +29,8 @@ twitter_username: TaraTaybah
 github_username:  tmtaybah
 
 # Build settings
-theme: jekyll-theme-clean-blog
-# remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+# theme: jekyll-theme-clean-blog
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
