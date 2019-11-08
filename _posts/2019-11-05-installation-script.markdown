@@ -48,4 +48,4 @@ echo "...done"
 {% endhighlight %}
 
 
-If you'd like to checkout my scripts, you can find it [here on my github page](https://github.com/tmtaybah/dotfiles). 
+If you'd like to checkout my scripts, you can find it [here](https://github.com/tmtaybah/dotfiles). 
